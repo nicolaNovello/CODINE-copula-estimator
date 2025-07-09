@@ -108,7 +108,7 @@ If you use the code for your research, please cite our paper:
 ```
 @article{letizia2022copula,
   title={Copula density neural estimation},
-  author={Letizia, Nunzio A and Tonello, Andrea M},
+  author={Letizia, Nunzio A and Novello, Nicola and Tonello, Andrea M},
   journal={arXiv preprint arXiv:2211.15353},
   year={2022}
 }
